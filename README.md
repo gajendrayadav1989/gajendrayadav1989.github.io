@@ -1,4 +1,4 @@
-# KUbernetes
+# Kubernetes
 
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
